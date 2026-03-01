@@ -1,4 +1,4 @@
-# stepik: 
+# stepik: https://stepik.org/a/268894
 
 # LSQR Solver — Sparse Linear System Course
 
